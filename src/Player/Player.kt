@@ -5,6 +5,7 @@ import GameItems.BaseItem.ItemEmpty
 
 object Player {
 
+    var non = 1
     val hp = 10
     val currentHp = hp
     var maxHp = hp
